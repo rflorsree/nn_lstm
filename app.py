@@ -27,4 +27,4 @@ model.fit(X, y, epochs=200, verbose=0)
 
 test_input = np.array([[9, 10, 11]]).reshape((1, 3, 1))
 pred = model.predict(test_input, verbose=0)
-print(f"Entrada: [9, 10, 11] → Predicción: {pred[0][0]:.2f}")
+print(f"Entrada: [9, 10, 11] → Prediccion: {pred[0][0]:.2f}")
