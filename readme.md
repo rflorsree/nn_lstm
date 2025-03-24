@@ -1,6 +1,6 @@
 # Predicción del siguiente número con RNN (LSTM)
 
-Este proyecto demuestra como usar una **Red Neuronal Recurrente (RNN)** con una arquitectura **LSTM** para predecir el **siguiente número en una secuencia**.
+Este codigo muestra como usar una **Red Neuronal Recurrente (RNN)** con una arquitectura **LSTM** para predecir el **siguiente número en una secuencia**.
 
 ---
 
